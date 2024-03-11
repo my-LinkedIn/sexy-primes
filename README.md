@@ -1,1 +1,3 @@
 # Sexy Primes Sequence
+
+I stumbled at this [post](https://www.linkedin.com/feed/update/urn:li:activity:7172765957008965632?utm_source=share&utm_medium=member_desktop) and this is what I come out...
