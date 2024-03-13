@@ -1,6 +1,6 @@
 # SEXY PRIMES SEQUENCES
 
-I stumbled across this [post](https://www.linkedin.com/feed/update/urn:li:activity:7172765957008965632?utm_source=share&utm_medium=member_desktop) and this is what [I](www.linkedin.com/in/menjaraz) came out...
+I stumbled across this [post](https://www.linkedin.com/feed/update/urn:li:activity:7172765957008965632?utm_source=share&utm_medium=member_desktop) and this is what [I](https://www.linkedin.com/in/menjaraz/) came out...
 
 Sexy primes are pairs of primes of the form (p, p+6).
 
