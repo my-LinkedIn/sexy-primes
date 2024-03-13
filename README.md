@@ -11,5 +11,7 @@ Sexy primes are pairs of primes of the form (p, p+6). The challenge was to devis
 ## References
 
 [Wikipedia entry](https://en.wikipedia.org/wiki/Sexy_prime)
+
 [Rosetta Code wiki](https://rosettacode.org/wiki/Sexy_primes)
+
 [Wolfram Mathworld](https://mathworld.wolfram.com/SexyPrimes.html)
