@@ -45,6 +45,8 @@ void main() {
 ```
 
 ## References
+[D language](https://dlang.org)
+
 
 [Wikipedia entry](https://en.wikipedia.org/wiki/Sexy_prime)
 
