@@ -48,10 +48,10 @@ void main() {
 [D language](https://dlang.org)
 
 
-[Wikipedia entry](https://en.wikipedia.org/wiki/Sexy_prime)
+[Sexy primes Wikipedia entry](https://en.wikipedia.org/wiki/Sexy_prime)
 
-[Rosetta Code wiki](https://rosettacode.org/wiki/Sexy_primes)
+[Sexy primes Rosetta Code wiki](https://rosettacode.org/wiki/Sexy_primes)
 
-[Wolfram Mathworld](https://mathworld.wolfram.com/SexyPrimes.html)
+[Sexy primes Wolfram Mathworld](https://mathworld.wolfram.com/SexyPrimes.html)
 
-OEIS: [A023201](https://oeis.org/A023201) & [A046117](https://oeis.org/A046117)
+Online Encyclopedia of Integer Sequences (OEIS): [A023201](https://oeis.org/A023201) & [A046117](https://oeis.org/A046117)
