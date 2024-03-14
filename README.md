@@ -52,6 +52,6 @@ void main() {
 
 [Sexy primes Rosetta Code wiki](https://rosettacode.org/wiki/Sexy_primes)
 
-[Sexy primes Wolfram Mathworld](https://mathworld.wolfram.com/SexyPrimes.html)
+[Sexy primes Wolfram Mathworld page](https://mathworld.wolfram.com/SexyPrimes.html)
 
 Online Encyclopedia of Integer Sequences (OEIS): [A023201](https://oeis.org/A023201) & [A046117](https://oeis.org/A046117)
